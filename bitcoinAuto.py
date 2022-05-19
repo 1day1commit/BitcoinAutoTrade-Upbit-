@@ -3,6 +3,7 @@ import pyupbit
 import datetime
 import pytz
 
+# Enter your own key from Upbit's Open API
 access = ""         
 secret = ""      
 
